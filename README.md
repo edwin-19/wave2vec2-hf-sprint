@@ -1,7 +1,8 @@
 # Wave2Vec2 Sprint HuggingFace
 
 # ToDO
-- [ ] Gather Data
+- [x] Gather Data
+- [ ] EDA
 - [ ] Train Wave2Vec2 model
 - [ ] Evaluate model
 - [ ] Upload model to huggingface hub

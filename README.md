@@ -10,5 +10,6 @@ So far the attempted finetuning method is Malay. Will attempt to gather more dat
 - [x] EDA
 - [x] Preprocesing
 - [x] Train Wave2Vec2 model
+- [x] Inference Script
 - [ ] Evaluate model
 - [ ] Upload model to huggingface hub

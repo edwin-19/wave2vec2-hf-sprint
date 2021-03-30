@@ -5,11 +5,15 @@ The langauge i was attempting is in bahasa malaysia (Malay).
 The other is a special form of english here in Malaysia (Manglish).
 So far the attempted finetuning method is Malay. Will attempt to gather more data on manglish
 
+# Notes
+- (30/3/2021) : Training Failed, Need to debug
+- (30/3/2021: 4:00pm) : Fix logging step and added evaluation step, change new data inputs and fix data gathering methods
+
 # ToDO
 - [x] Gather Data
 - [x] EDA
 - [x] Preprocesing
 - [x] Train Wave2Vec2 model
 - [x] Inference Script
-- [ ] Evaluate model
+- [x] Evaluate model
 - [ ] Upload model to huggingface hub

@@ -9,6 +9,9 @@ So far the attempted finetuning method is Malay. Will attempt to gather more dat
 - (30/3/2021) : Training Failed, Need to debug
 - (30/3/2021: 4:00pm) : Fix logging step and added evaluation step, change new data inputs and fix data gathering methods
 
+# Results
+- (30/3/2021): Word Error Rate is 1 (need to debug reasons for high error rate)
+
 # ToDO
 - [x] Gather Data
 - [x] EDA
